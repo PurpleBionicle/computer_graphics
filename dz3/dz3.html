@@ -5,9 +5,20 @@
         background: url(clock1.png) no-repeat center center fixed;
         background-size: 40%;
     }
-
+    @import url(https://fonts.googleapis.com/css?family=Rubik+One&subset=latin,cyrillic);
+    .gradient-text {
+        font-family: 'Rubik One', sans-serif;
+        font-size: 50px;
+        text-transform: uppercase;
+        background: linear-gradient(to bottom right, #00ff00 0%, #0066ff 100%);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        color: #0b490c;
+        display: table;
+        margin: 20px auto;
+    }
 </style>
-<canvas id="lab03" width="1620" height="800">
+<canvas id="lab03" width="1620" height="750">
 </canvas>
 <script>
     function Line(idata, x0, y0, x1, y1) {
@@ -52,8 +63,9 @@
         }
     }
 
-    setInterval(draw, 30);
+    setInterval(draw, 80);
 
 </script>
+<p class="gradient-text">Using Bresenham's line algorithm, but only 45 degrees</p>
 </BODY>
 </HTML>
