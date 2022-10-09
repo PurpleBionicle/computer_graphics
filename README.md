@@ -14,3 +14,9 @@ Using data
 ![a](dz3/final.png)
 
 Using Bresenham's line algorithm, but only 45 degrees
+
+<h3>ДЗ 4</h3>
+
+![a](dz4/final.png)
+
+Using Bresenham's circle algorithm
