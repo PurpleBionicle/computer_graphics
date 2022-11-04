@@ -23,18 +23,24 @@ Using Bresenham's circle algorithm
 
 <h3>ДЗ 5</h3>
 
-![a]()
+![a](dz5/final.png)
 
 Using Sobel and Gauss filter 
 
 <h3>ДЗ 6</h3>
 
-![a]()
+![sad smyle](dz6/final.png)
 
-квадраты какие-то
+Clipping algorithm
 
 <h3>ДЗ 7</h3>
 
 ![a](dz7/final.png)
 
 Cyrus-Beck algorithm
+
+<h3>ДЗ 8</h3>
+
+![a](dz8/final.png)
+
+Bezier curves
