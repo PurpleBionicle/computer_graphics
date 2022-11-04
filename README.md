@@ -20,3 +20,21 @@ Using Bresenham's line algorithm, but only 45 degrees
 ![a](dz4/final.png)
 
 Using Bresenham's circle algorithm
+
+<h3>ДЗ 5</h3>
+
+![a]()
+
+Using Sobel and Gauss filter 
+
+<h3>ДЗ 6</h3>
+
+![a]()
+
+квадраты какие-то
+
+<h3>ДЗ 7</h3>
+
+![a](dz7/final.png)
+
+Cyrus-Beck algorithm
