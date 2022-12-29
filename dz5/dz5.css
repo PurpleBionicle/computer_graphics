@@ -1,0 +1,23 @@
+.text-wrapper {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.text {
+    border: 1px solid gainsboro;
+    text-align: center;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper canvas {
+    display: flex;
+    border: 2px solid gainsboro;
+    border-radius: 15px;
+}
